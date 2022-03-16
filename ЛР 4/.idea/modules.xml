@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/client/LR_4_part_1/LR_4_part_1.iml" filepath="$PROJECT_DIR$/client/LR_4_part_1/LR_4_part_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/LR_4_part_1/LR_4_part_11.iml" filepath="$PROJECT_DIR$/server/LR_4_part_1/LR_4_part_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/LR_4_part_2/LR_4_part_2.iml" filepath="$PROJECT_DIR$/client/LR_4_part_2/LR_4_part_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/LR_4_part_2/LR_4_part_21.iml" filepath="$PROJECT_DIR$/server/LR_4_part_2/LR_4_part_21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/LR_4_part_3/LR_4_part_3.iml" filepath="$PROJECT_DIR$/server/LR_4_part_3/LR_4_part_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/LR_4_part_3/LR_4_part_31.iml" filepath="$PROJECT_DIR$/client/LR_4_part_3/LR_4_part_31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ЛР 4.iml" filepath="$PROJECT_DIR$/.idea/ЛР 4.iml" />
+    </modules>
+  </component>
+</project>
